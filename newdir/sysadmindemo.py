@@ -14,3 +14,4 @@ i="-aux"
 subprocess.run([s,i])
 
 # print(type(l))
+print("----")
