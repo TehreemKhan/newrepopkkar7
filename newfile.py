@@ -32,5 +32,7 @@
 # for x in myMixedTypeList:
 #     print("{} is of type {}".format(x,type(x)))
 
+print("from remote")
+
 i = 10
 print(f'i is {i}')
