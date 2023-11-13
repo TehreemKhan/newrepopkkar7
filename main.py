@@ -40,6 +40,10 @@
 #             # lineCount += 1
 #     # print(f'Processed {lineCount} lines.')
 #
+
+for x in range(1,20):
+    print(x)
+
 #
 # for x in myInventoryList:
 #     print(x)
@@ -102,3 +106,5 @@ def add(a,b):
 
 # print(add(add(30,50),add(10,20)))
 print("---")
+
+
